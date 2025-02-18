@@ -75,7 +75,7 @@ terraform destroy -auto-approve
 ```
 
 ## Author
-💡 Created by **[Your Name]** - Feel free to contribute and improve!
+💡 Created by Anton Aks - Feel free to contribute and improve!
 
 ---
 Happy coding! 🚀
